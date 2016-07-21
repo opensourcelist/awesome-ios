@@ -1833,9 +1833,3 @@ Other amazingly awesome lists can be found in the
 * [awesome-gists](https://github.com/vsouza/awesome-gists#ios) - A list of amazing gists (iOS section).
 * [awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui) - A curated list of awesome iOS UI/UX libraries.
 * [Awesome Reactive Programming in Swift](https://github.com/SideEffects-xyz/Awesome-Reactive-Programming-Swift) - A collection of frameworks, talks and resources about reactive programming in Swift.
-
-# Contributing
-[See the guide](https://github.com/vsouza/awesome-ios/blob/master/.github/CONTRIBUTING.md)
-
-# License
-Distributed under the MIT license. See LICENSE for more information.
